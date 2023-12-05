@@ -25,3 +25,5 @@
 
 [![An image of @spoorthishet2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spoorthishet2003)](https://holopin.io/@spoorthishet2003)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Spoorthishet2003)](https://github.com/ryo-ma/github-profile-trophy)
+
